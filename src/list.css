@@ -1,0 +1,12 @@
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+  }
+  .movie-card {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 10px;
+  }
+  
